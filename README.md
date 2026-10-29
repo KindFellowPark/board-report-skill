@@ -94,6 +94,7 @@ does not create a layout from nothing.
 ```
 skill/board-report/SKILL.md                 the instructions Claude follows
 skill/board-report/references/playbook.md   the Canva steps, the report layouts and the story format
+skill/board-report/references/decisions.md  the choices: which report to copy, photo access, matching photos, responsive pages
 sample/                                     one fictional month, story list to finished report
 docs/mock_report.html                       the HTML used to render the mock report
 docs/report_page-1.png                      first page of the mock report
